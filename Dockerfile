@@ -1,1 +1,1 @@
-FROM docker.io/miniflux/miniflux:2.0.48
+FROM docker.io/miniflux/miniflux@sha256:51644532aa71f7a090a469b4018b342892eb8b6d1bbd1bfeff96d2addd23a370
